@@ -15,8 +15,7 @@
 - The number of males victims in gun deaths is significantly higher than the number of females victims.
 
 
-  The repo contains a screenshot of the dashboard and the tableau file.
-
-
-  The link for the dashboard in Tableau Public: https://shorturl.at/gvOXY
-  The link of the dataset: https://www.kaggle.com/datasets/konradb/gun-deaths-in-the-us-1968-2021
+## Other Info
+- The repo contains a screenshot of the dashboard and the tableau file.
+- The link for the dashboard in Tableau Public: https://shorturl.at/gvOXY
+- The link of the dataset: https://www.kaggle.com/datasets/konradb/gun-deaths-in-the-us-1968-2021
