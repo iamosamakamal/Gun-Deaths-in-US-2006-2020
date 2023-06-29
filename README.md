@@ -2,7 +2,7 @@
 
 - Gun Deaths are horrible and tragic, they lead to heated discussions about public safety, individual rights, and societal well-being.
 
-- Ny goal here is to hightlight the major factors that cause high and increasing numbers of gun deaths and to help making decisions to decrease these numbers.
+- My goal here is to highlight the major factors that cause high and increasing numbers of gun deaths and to help making decisions to decrease these numbers.
 
 - I created a dashboard that provides statistical analysis about the increase of number of deaths per year, the intent of the deaths, the place of deaths and the races.
 
